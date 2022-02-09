@@ -1,6 +1,18 @@
-# personal_blog
+# Personal Blog
 
-Steps
-- Add homepage
-- Add blogs page
-- Add social handles
+## Pages
+- HomePage
+- Products/Projects
+
+## NavBar
+- Logo
+- Products
+- Twitter
+
+## Landing Page
+- What I do?
+## Blog
+- Pagination
+
+## Tech to add
+- TailwindCSS
